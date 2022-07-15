@@ -36,7 +36,7 @@
         <form autocomplete="off" class="col-md-8" action="" id="editorForm" method="POST" onsubmit="return false;">
           <div class="col-md-12 container_form">
              <!-- Titulo -->
-             <h2>Cambiado desde la mac</h2>
+             <h2>Titulo de la App</h2>
               <div class="form-group row">
                 <div class="col-md-12">
                   <label for="text_title">Nombre</label>
